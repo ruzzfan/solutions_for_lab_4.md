@@ -1,0 +1,22 @@
+exercise 1
+cd ~
+ls -l
+
+exercise 2
+ls -lhS /var/log | sort -h
+
+exercise 3
+nano firstname.txt
+
+exercise 4
+echo "Cekgul" > lastname.txt
+
+exercise 5
+cat firstname.txt
+cat lastname.txt
+
+exercise 6
+cat lastname.txt >> firstname.txt
+
+exercise 7
+ls -d */ > folder_list.txt
